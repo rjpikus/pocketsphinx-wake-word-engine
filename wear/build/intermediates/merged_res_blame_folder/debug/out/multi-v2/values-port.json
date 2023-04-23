@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.cmu.pocketsphinx.demo.wear-mergeDebugResources-9:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "edu.cmu.pocketsphinx.demo.wear-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "edu.cmu.pocketsphinx.demo.wear-main-13:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.cmu.pocketsphinx.demo.wear-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "edu.cmu.pocketsphinx.demo.wear-main-13:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.cmu.pocketsphinx.demo.wear-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "edu.cmu.pocketsphinx.demo.wear-main-13:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.cmu.pocketsphinx.demo.wear-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "edu.cmu.pocketsphinx.demo.wear-main-13:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.cmu.pocketsphinx.demo.wear-merged_res-11:/layout_activity_main.xml.flat",
+        "source": "edu.cmu.pocketsphinx.demo.wear-main-13:/layout/activity_main.xml"
+    }
+]

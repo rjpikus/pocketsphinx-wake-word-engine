@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.cmu.pocketsphinx.demo.wear"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+10
+11    <meta-data
+11-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:5:5-7:32
+12        android:name="com.google.android.wearable.standalone"
+12-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:6:9-62
+13        android:value="true" />
+13-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:7:9-29
+14
+15    <uses-feature android:name="android.hardware.type.watch" />
+15-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:9:5-64
+15-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:9:19-61
+16
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:11:5-81
+17-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:12:5-71
+18-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:12:22-68
+19
+20    <application
+20-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:14:5-27:19
+21        android:allowBackup="false"
+21-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:15:9-36
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:16:9-43
+25        android:label="@string/app_name"
+25-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:17:9-41
+26        android:supportsRtl="true"
+26-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@android:style/Theme.DeviceDefault" >
+28-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:19:9-59
+29        <activity
+29-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:9-26:20
+30            android:name="edu.cmu.pocketsphinx.demo.wear.WearActivity"
+30-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:19-47
+31            android:label="@string/app_name" >
+31-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:48-80
+32            <intent-filter>
+32-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:21:13-25:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:22:17-69
+33-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:24:17-77
+35-->/Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:24:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <uses-library
+39-->[com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:10:9-12:40
+40            android:name="com.google.android.wearable"
+40-->[com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:11:13-55
+41            android:required="false" />
+41-->[com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:12:13-37
+42
+43        <meta-data
+43-->[com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:23:9-25:38
+44            android:name="android.support.VERSION"
+44-->[com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:24:13-51
+45            android:value="26.0.2" />
+45-->[com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:25:13-35
+46    </application>
+47
+48</manifest>

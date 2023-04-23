@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [:aars] /Users/rj/c1/pocketsphinx-android-demo/aars/build/.transforms/75c10023316adb93ddf8b162195dde4b/transformed/pocketsphinx-android-5prealpha-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:models] /Users/rj/c1/pocketsphinx-android-demo/models/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:2:11-69
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:5:5-7:32
+	android:value
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:7:9-29
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:6:9-62
+uses-feature#android.hardware.type.watch
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:9:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:12:22-68
+application
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:14:5-27:19
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:15:9-36
+	android:theme
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:19:9-59
+activity#edu.cmu.pocketsphinx.demo.wear.WearActivity
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:9-26:20
+	android:label
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:48-80
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+MERGED from [:aars] /Users/rj/c1/pocketsphinx-android-demo/aars/build/.transforms/75c10023316adb93ddf8b162195dde4b/transformed/pocketsphinx-android-5prealpha-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:aars] /Users/rj/c1/pocketsphinx-android-demo/aars/build/.transforms/75c10023316adb93ddf8b162195dde4b/transformed/pocketsphinx-android-5prealpha-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:models] /Users/rj/c1/pocketsphinx-android-demo/models/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:models] /Users/rj/c1/pocketsphinx-android-demo/models/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		ADDED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+		INJECTED from /Users/rj/c1/pocketsphinx-android-demo/wear/src/main/AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.1.0] /Users/rj/.gradle/caches/transforms-3/f21f623c3b379cf7bc6f2b02fa9d21da/transformed/wearable-2.1.0/AndroidManifest.xml:11:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/rj/.gradle/caches/transforms-3/0c4ef024adfd453a91f569e8dc26009e/transformed/support-v4-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/rj/.gradle/caches/transforms-3/350358d0f548836f19b7e9f19f875624/transformed/recyclerview-v7-26.0.2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/7feb5ab480753c3247c3a3c161edb97e/transformed/support-media-compat-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/rj/.gradle/caches/transforms-3/9130f49c5415597f8a5d428be420ebaf/transformed/support-fragment-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/rj/.gradle/caches/transforms-3/733e4ed26a88dea3a2a709376fc22cb9/transformed/support-core-utils-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/rj/.gradle/caches/transforms-3/de58f9fcd1414b78e4485c113e3cd9c9/transformed/support-core-ui-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/rj/.gradle/caches/transforms-3/9ee0ef0acc3b332f21860e70c36c5e4f/transformed/support-compat-26.0.2/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.0.2] /Users/rj/.gradle/caches/transforms-3/609ec23cf7efc53227939c48219820fe/transformed/percent-26.0.2/AndroidManifest.xml:24:13-51
